@@ -1,0 +1,6 @@
+# Scripts SQL
+sql/*.sql linguist-detectable=true
+sql/*.sql linguist-language=SQL
+
+# Scripts específicos de PL/pgSQL
+sql/02_funcoes_triggers.sql linguist-language=PLpgSQL
